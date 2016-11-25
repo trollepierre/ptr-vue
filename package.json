@@ -1,0 +1,19 @@
+{
+  "name": "ptr-vue",
+  "version": "1.0.0",
+  "description": "Vue.js testé par PTR",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trollepierre/ptr-vue.git"
+  },
+  "author": "PTR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trollepierre/ptr-vue/issues"
+  },
+  "homepage": "https://github.com/trollepierre/ptr-vue#readme"
+}
